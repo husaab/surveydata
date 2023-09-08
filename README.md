@@ -1,5 +1,5 @@
 # surveydata
-Analyzed data of over 100+ survey results using Python along with the Pandas and Matplotlib libraries. 
+Analyzed data of over 100+ survey results using Python and the Pandas and Matplotlib libraries. 
 
 ![image](https://github.com/husaab/surveydata/assets/126218851/ee1aee4b-5fd3-4d92-804c-b776fc998497)
 
